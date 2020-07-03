@@ -1,0 +1,3 @@
+import the "ITKeyboard" folder to the Arduino libraries using the Arduino IDE
+
+importa la cartella "ITKeyboard" tra le librerie di Arduino usando Arduino IDE
